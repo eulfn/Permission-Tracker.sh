@@ -1,6 +1,6 @@
 # Android Permission Report Script
 
-Quick shell script to list which apps have Camera, Mic, or Location access on your Android device. Works with root or Shizuku shell. Output is clean and easy to read.
+list user apps have Camera, Mic, or Location access, Works with root or non root
 
 ## What It Does
 - Lists all user apps with access to:
@@ -59,4 +59,4 @@ Because it's fast to write, easy to read, and fun. Functions like `Has` and `Op`
 
 ---
 
-PRs welcome if you want to add more features or make it fancier! 
+Don't Forget To Add As Star!
