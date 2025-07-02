@@ -54,9 +54,6 @@ You can combine flags, e.g.:
 - `pm` and `appops` available in shell
 - Root or Shizuku shell access
 
-## Why the Short Names?
-Because it's fast to write, easy to read, and fun. Functions like `Has` and `Op` do what they say. Variables like `p`, `pkgs`, `cam_list` keep things simple.
-
 ---
 
 Don't Forget To Add As Star!
